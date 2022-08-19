@@ -7,6 +7,10 @@ body {
     background: rgb(255, 255, 255);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 tr:nth-child(even) {
     background-color: #dddddd;
     border-color:rgb(196, 196, 196);
